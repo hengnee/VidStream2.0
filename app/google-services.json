@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "1073837797959",
-    "firebase_url": "https://pyrebase-notification.firebaseio.com",
-    "project_id": "pyrebase-notification",
-    "storage_bucket": "pyrebase-notification.appspot.com"
+    "project_number": "994252351038",
+    "firebase_url": "https://pyrebase-firebase.firebaseio.com",
+    "project_id": "pyrebase-firebase",
+    "storage_bucket": "pyrebase-firebase.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1073837797959:android:9b971bafd36a93e5",
+        "mobilesdk_app_id": "1:994252351038:android:9b971bafd36a93e5",
         "android_client_info": {
           "package_name": "com.example.android101.vidstream"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1073837797959-s3qbg2qtcakq757nt7qv95103b9ljfkg.apps.googleusercontent.com",
+          "client_id": "994252351038-a8vc192nq70keentek9ps5b3ue1rtves.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAf8NFYg0b8cfhlBNodEGreCxTpwTz5jNE"
+          "current_key": "AIzaSyAPb0BeQX1S2Eqa7Sh6HMi1XXJ2HWjNOr0"
         }
       ],
       "services": {

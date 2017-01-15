@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //String stream_url = "http://172.28.218.13:8080/stream/video.mjpeg";
+
         String stream_url = "http://192.168.0.111:8080/stream/video.mjpeg";
         WebView browser = (WebView) this.findViewById(R.id.webView);
         browser.setInitialScale(1);
@@ -32,6 +33,5 @@ public class MainActivity extends AppCompatActivity {
                     Message.setText(getIntent().getExtras().getString(key));
             }
         }
-
     }
 }
